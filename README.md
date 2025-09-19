@@ -1,4 +1,4 @@
-# Raccoon Developer — Профессиональный профиль
+# Raccoon Developer
 
 ## Краткое резюме
 
